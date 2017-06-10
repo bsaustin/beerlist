@@ -1,1 +1,32 @@
-"Hello, world!" 
+<html>
+<head>
+<meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+<meta content="utf-8" http-equiv="encoding">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+<script>
+$.getJSON("beers.json", function (data) {
+  var beers = data.result[0].beers;
+  var list = [];
+  var dict = {};
+  beers.forEach(function (val) {
+    if (!dict[val.objectId]) {
+      dict[val.objectId] = val;
+      str = "<li>" + val.brewer + " - " + val.name + " - " + (val.abv * 100).toFixed(2) + "%";
+      if (val.style) {
+        str += " (" + val.style + ")";
+      }
+      str += "</li>";
+      list.push(str);
+    }
+  });
+
+  $( "<ul/>", {
+    html: list.sort().join("")
+  }).appendTo("body");
+});
+</script>
+</head>
+<body>
+</body>
+</html>
