@@ -6,24 +6,32 @@
 
 <script>
 $.getJSON("beers.json", function (data) {
-  var beers = data.result[0].beers;
-  var list = [];
-  var dict = {};
-  beers.forEach(function (val) {
-    if (!dict[val.objectId]) {
-      dict[val.objectId] = val;
-      str = "<li>" + val.brewer + " - " + val.name + " - " + (val.abv * 100).toFixed(2) + "%";
-      if (val.style) {
-        str += " (" + val.style + ")";
+  var results = data.result;
+  results.forEach(function (result) {
+    var beers = result.beers;
+    var list = [];
+    var dict = {};
+    beers.forEach(function (val) {
+      if (!dict[val.objectId]) {
+        dict[val.objectId] = val;
+        str = "<li>" + val.brewer + " - " + val.name + " - " + (val.abv * 100).toFixed(2) + "%";
+        if (val.style) {
+          str += " (" + val.style + ")";
+        }
+        str += "</li>";
+        list.push(str);
       }
-      str += "</li>";
-      list.push(str);
-    }
-  });
+    });
 
-  $( "<ul/>", {
-    html: list.sort().join("")
-  }).appendTo("body");
+    var p = $( "<p/>", {
+      html: result.title
+    });
+
+    $( "<ul/>", {
+      html: list.sort().join("")
+    }).appendTo(p);
+    p.appendTo("body");
+  });
 });
 </script>
 </head>
