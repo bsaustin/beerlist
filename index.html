@@ -5,34 +5,78 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 
 <script>
-$.getJSON("beers.json", function (data) {
-  var results = data.result;
-  results.forEach(function (result) {
-    var beers = result.beers;
-    var list = [];
-    var dict = {};
-    beers.forEach(function (val) {
-      if (!dict[val.objectId]) {
-        dict[val.objectId] = val;
-        str = "<li>" + val.brewer + " - " + val.name + " - " + (val.abv * 100).toFixed(2) + "%";
-        if (val.style) {
-          str += " (" + val.style + ")";
-        }
-        str += "</li>";
-        list.push(str);
+function transcribeBeers(collection) {
+  var beers = collection.beers;
+  var list = [];
+  var dict = {};
+  beers.forEach(function (val) {
+    if (!dict[val.objectId]) {
+      dict[val.objectId] = val;
+      str = "<li>" + val.brewer + " - " + val.name + " - " + (val.abv * 100).toFixed(2) + "%";
+      if (val.style) {
+        str += " (" + val.style + ")";
       }
-    });
-
-    var p = $( "<p/>", {
-      html: result.title
-    });
-
-    $( "<ul/>", {
-      html: list.sort().join("")
-    }).appendTo(p);
-    p.appendTo("body");
+      str += "</li>";
+      list.push(str);
+    }
   });
-});
+
+  if (list.length === 0) {
+    return;
+  }
+
+  var p = $( "<p/>", {
+    html: collection.title
+  });
+
+  $( "<ul/>", {
+    html: list.sort().join("")
+  }).appendTo(p);
+  p.appendTo("body");
+}
+
+function receivedOldBeers(data) {
+  oldBeers = {};
+  data.result.forEach(function (result) {
+    result.beers.forEach(function (val) {
+      oldBeers[val.objectId] = val;
+    });
+  });
+  $.getJSON("beers.json", function(res) {
+    receivedBeers(res, oldBeers);
+  });
+}
+
+function receivedBeers(data, oldBeers) {
+  var results = data.result;
+  var newBeers = results.map(function (coll) {
+    return Object.assign({}, coll, {
+      beers: coll.beers.filter(function (val) {
+        return !oldBeers[val.objectId];
+      })
+    });
+  });
+
+  var header = $("<h3/>", {
+    html: "New beers!"
+  });
+  header.appendTo("body");
+  newBeers.forEach(function (collection) {
+    transcribeBeers(collection);
+  });
+
+  oldBeers = results.map(function (coll) {
+    return Object.assign({}, coll, { beers: coll.beers.filter(function (val) { return oldBeers[val.objectId]; }) });
+  });
+  var header = $("<h3/>", {
+    html: "Old beers"
+  });
+  header.appendTo("body");
+  oldBeers.forEach(function (collection) {
+    transcribeBeers(collection);
+  });
+}
+$.getJSON("beers_old.json", receivedOldBeers);
 </script>
 </head>
 <body>
