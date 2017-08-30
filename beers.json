@@ -154,7 +154,7 @@
         },
         {
           "createdAt": "2016-07-15T00:24:57.458Z",
-          "updatedAt": "2017-07-16T16:06:44.631Z",
+          "updatedAt": "2017-08-17T13:54:47.302Z",
           "ibu": 45,
           "untappdID": "1441255",
           "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-1441255_8c757_sm.jpeg",
@@ -448,7 +448,7 @@
           "abv": 0.065,
           "ibu": 50,
           "createdAt": "2017-05-21T22:39:03.178Z",
-          "updatedAt": "2017-05-21T22:39:03.178Z",
+          "updatedAt": "2017-08-12T01:29:18.849Z",
           "objectId": "v7MPdjzJg4",
           "__type": "Object",
           "className": "Beer"
@@ -637,7 +637,7 @@
           "ibu": null,
           "abv": 0.08,
           "createdAt": "2016-03-16T22:13:55.279Z",
-          "updatedAt": "2017-04-28T03:49:36.986Z",
+          "updatedAt": "2017-08-10T17:41:50.630Z",
           "name": "Lupulin River",
           "searchedForUntappdID": true,
           "style": "IPA - Imperial \/ Double",
@@ -1161,7 +1161,12 @@
           "abv": 0.05,
           "ibu": 0,
           "createdAt": "2017-06-11T03:22:50.528Z",
-          "updatedAt": "2017-06-11T03:22:50.528Z",
+          "updatedAt": "2017-08-19T19:29:40.269Z",
+          "body": null,
+          "drySweet": null,
+          "maltHop": null,
+          "crispRich": null,
+          "pdfURL": "https:\/\/res.cloudinary.com\/brewpublik\/image\/upload\/v1503170977\/tlzjky6t0ojw9geewdzu.pdf",
           "objectId": "woj90LmMHH",
           "__type": "Object",
           "className": "Beer"
@@ -1840,9 +1845,9 @@
           "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-94270_26819_sm.jpeg",
           "brewer": "Avery Brewing Co.",
           "abv": 0.171,
-          "ibu": 0,
+          "ibu": null,
           "createdAt": "2017-06-11T21:39:03.790Z",
-          "updatedAt": "2017-06-11T21:39:03.790Z",
+          "updatedAt": "2017-08-22T23:09:40.947Z",
           "objectId": "jWxdEmIaVU",
           "__type": "Object",
           "className": "Beer"
@@ -1958,7 +1963,7 @@
             "className": "Tier",
             "objectId": "2"
           },
-          "updatedAt": "2017-08-06T20:45:11.911Z",
+          "updatedAt": "2017-08-29T02:39:40.063Z",
           "drySweet": 0.8,
           "crispRich": 0.8,
           "brewer": "New Holland Brewing Company",
@@ -1995,7 +2000,7 @@
               "objectId": "26"
             }
           ],
-          "ibu": 31,
+          "ibu": null,
           "maltHop": 0.2,
           "untappdID": "123662",
           "untappdString": "Dragon's Milk (New Holland)",
@@ -2350,7 +2355,7 @@
           "brewer": "Ballast Point Brewing & Spirits",
           "createdAt": "2016-02-23T01:53:49.862Z",
           "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-880465_bc7ab_sm.jpeg",
-          "updatedAt": "2017-07-16T16:06:44.664Z",
+          "updatedAt": "2017-08-17T13:54:47.369Z",
           "untappdID": "880465",
           "abv": 0.1,
           "ibu": 60,
@@ -2466,9 +2471,9 @@
           "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-733768_bb2d8_sm.jpeg",
           "brewer": "Faction Brewing",
           "abv": 0.048,
-          "ibu": 35,
+          "ibu": null,
           "createdAt": "2017-06-11T23:55:33.495Z",
-          "updatedAt": "2017-06-11T23:55:33.495Z",
+          "updatedAt": "2017-08-16T21:46:30.317Z",
           "objectId": "4rW30RqNVP",
           "__type": "Object",
           "className": "Beer"
@@ -2736,8 +2741,8 @@
           "abv": 0.09,
           "untappdID": "1405166",
           "brewer": "Dogfish Head Craft Brewery",
-          "ibu": 30,
-          "updatedAt": "2017-05-05T17:20:08.767Z",
+          "ibu": null,
+          "updatedAt": "2017-08-17T15:42:18.908Z",
           "body": 0.5,
           "crispRich": 0.7,
           "drySweet": 0.6,
@@ -3036,7 +3041,7 @@
           "createdAt": "2016-06-27T03:07:52.004Z",
           "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-7044_70402_sm.jpeg",
           "name": "Hell or High Watermelon",
-          "updatedAt": "2017-07-26T14:34:23.640Z",
+          "updatedAt": "2017-08-25T10:12:44.025Z",
           "abv": 0.049,
           "untappdID": "7044",
           "ibu": null,
@@ -3201,6 +3206,1563 @@
       "className": "Collections"
     },
     {
+      "states": [
+        "ca"
+      ],
+      "beers": [
+        {
+          "description": "\n# Beer Description\n\nAbita Wrought Iron IPA embodies the resilient, indestructible nature of New Orleans. This India pale ale is forged with the intensity of Apollo, Equinox and Mosaic Hops. Brewed with pale ale malt for a golden color as bright as iron from a fiery forge.\n\n# The Boys'\n\nTake: A bolder style beer then you would typically expect from the folks at Abita. Wrought Iron is an IPA with enough strong hop bitterness to live up to its name. A really excellent IPA from the folks at Abita.\n\n# About the Brewer\n\nAbita was founded in 1986, and is in many ways the quintessential Southern beer. Brewed in Abita Springs, LA (40 minutes north of New Orleans), Abita makes a wide range of brews, some of which are perfect for pairing with seersucker and sticky nights- and that's something we need here in the South. Another added benefit is the pure, deep water from Abita Springs- this is the last little bit that kicks Abita beer \"up a notch!\" Most Abita beers are light drinking and perfect for summer nights, and are made with all-natural, high-quality ingredients.\n\n# Drink this if You Like\n\nPale Ales, IPAs, Double IPAs\n\n# Ideal for People who Like\n\nNew Orleans, front porches and ceiling fans, grits\n\n# Drinking While you Are\n\nWrassling a gator, on a boat, done with some yardwork\n\n# Pair with\n\nGumbo, Jambalaya, Low Country Boil, Crawfish Etouffee\n",
+          "crispRich": 0.6,
+          "createdAt": "2016-01-11T03:13:50.630Z",
+          "drySweet": 0.6,
+          "ibu": 80,
+          "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-790639_3a03b_sm.jpeg",
+          "untappdID": "790639",
+          "brewer": "Abita Brewing Company",
+          "untappdString": "Wrought Iron IPA (Abita Brewing Company)",
+          "pdfURL": "https:\/\/res.cloudinary.com\/brewpublik\/image\/upload\/v1496242143\/mzezvt8rvsjuiypfpzns.pdf",
+          "style": "IPA - American",
+          "name": "Wrought Iron IPA",
+          "tags": [
+            {
+              "__type": "Pointer",
+              "className": "Tag",
+              "objectId": "16"
+            },
+            {
+              "__type": "Pointer",
+              "className": "Tag",
+              "objectId": "5"
+            },
+            {
+              "__type": "Pointer",
+              "className": "Tag",
+              "objectId": "49"
+            },
+            {
+              "__type": "Pointer",
+              "className": "Tag",
+              "objectId": "53"
+            }
+          ],
+          "searchedForUntappdID": true,
+          "updatedAt": "2017-05-31T14:49:05.192Z",
+          "body": 0.6,
+          "abv": 0.069,
+          "tier": {
+            "__type": "Pointer",
+            "className": "Tier",
+            "objectId": "2"
+          },
+          "maltHop": 0.7,
+          "objectId": "880",
+          "__type": "Object",
+          "className": "Beer"
+        },
+        {
+          "untappdID": "1501485",
+          "name": "Pile of Face",
+          "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-1501485_95ce0_sm.jpeg",
+          "brewer": "Against the Grain Brewery & Smokehouse",
+          "abv": 0.065,
+          "ibu": 65,
+          "createdAt": "2017-08-30T13:36:05.436Z",
+          "updatedAt": "2017-08-30T13:36:05.436Z",
+          "objectId": "pslvCExoZ2",
+          "__type": "Object",
+          "className": "Beer"
+        },
+        {
+          "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-1335579_553e0_sm.jpeg",
+          "untappdID": "1335579",
+          "abv": 0.045,
+          "ibu": 42,
+          "createdAt": "2016-11-09T17:45:04.849Z",
+          "updatedAt": "2017-05-08T02:13:44.167Z",
+          "name": "A Beer",
+          "brewer": "Against the Grain Brewery & Smokehouse",
+          "searchedForUntappdID": true,
+          "style": "Pale Ale - American",
+          "objectId": "I50k5CmH7l",
+          "__type": "Object",
+          "className": "Beer"
+        },
+        {
+          "untappdID": "17477",
+          "name": "Douze",
+          "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-BFMDouze_17477.jpeg",
+          "brewer": "BFM (Brasserie des Franches-Montagnes)",
+          "abv": 0.065,
+          "ibu": 0,
+          "createdAt": "2017-08-30T13:36:05.438Z",
+          "updatedAt": "2017-08-30T13:36:05.438Z",
+          "objectId": "NZGXIJZVuc",
+          "__type": "Object",
+          "className": "Beer"
+        },
+        {
+          "untappdID": "2107716",
+          "name": "Garden Shed IPA",
+          "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-2107716_5f79d_sm.jpeg",
+          "brewer": "Blackberry Farm Brewery",
+          "abv": 0.063,
+          "ibu": 0,
+          "createdAt": "2017-08-30T13:36:05.476Z",
+          "updatedAt": "2017-08-30T13:36:05.476Z",
+          "objectId": "Hb5v4t8FUI",
+          "__type": "Object",
+          "className": "Beer"
+        },
+        {
+          "updatedAt": "2017-08-21T03:52:13.005Z",
+          "abv": 0.095,
+          "brewer": "Founders Brewing Co.",
+          "name": "reDANKulous",
+          "createdAt": "2016-06-22T17:47:35.565Z",
+          "ibu": 90,
+          "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-1136293_09cf7_sm.jpeg",
+          "untappdID": "1136293",
+          "searchedForUntappdID": true,
+          "style": "IPA - Red",
+          "objectId": "TeKdfgpTcQ",
+          "__type": "Object",
+          "className": "Beer"
+        },
+        {
+          "description": "\n# Beer Description\n\nThe beer you've been waiting for. Keeps your taste satisfied while keeping your senses sharp. An all-day IPA naturally brewed with a complex array of malts, grains and hops. Balanced for optimal aromatic and a clean finish. The perfect reward for an honest day's work and the ultimate companion to celebrate life's simple pleasures.\n\n# What you should know\n\nSession IPAs are some of the most difficult beers to create, because lower ABV means lower malt, which means that the flavor of hops can become hard to mask. As much as the hopheads might say it, nobody munches on hop buds, and there's a reason for that. But Founder's Brewmaster Jeremy Kosmicki wanted a beer he could drink a decent amount of but still have flavor. So he created All-Day IPA, a beer with all the IPA flavor, but still plenty of pound-ability. That's All-Day IPA\n\n# The Boys' Take\n\nRefreshing as all get out and great for a summer day, the focus that we tasted here is a bit of hops, with light body and taste. It has enough hoppiness to keep us happy, but is light enough for the hottest day.\n\n# About the Brewer\n\nFounder's Brewery is the pride and joy of Grand Rapids, MI. Mike Stevens and Dave Engbers started the brewer, and very quickly they realized they were running out of money- so they decided to stop playing it safe. Since then, Founder's has been a different brewery. This isn't the place that has crazy names or themes. The names are simple, but the beer can be complex. Check out the Breakfast Stout in the winter and the Harvest Ale in fall.\n\n# Drink this if You Like\n\nSession IPAs, Pale Ales, IPAs\n\n# Ideal for People who Like\n\nGetting out there, an active lifestyle, day-drinking\n\n# Drink While You Are\n\nCanoeing, road-tripping (as long as you aren't driving)\n\n# Pair with\n\nMexican, Enchiladas, Hamburgers\n",
+          "createdAt": "2016-01-11T03:13:51.975Z",
+          "crispRich": 0.5,
+          "drySweet": 0.6,
+          "ibu": null,
+          "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-36834_82ca8_sm.jpeg",
+          "untappdID": "36834",
+          "brewer": "Founders Brewing Co.",
+          "untappdString": "All Day IPA (Founders Brewing Co.)",
+          "pdfURL": "https:\/\/res.cloudinary.com\/brewpublik\/image\/upload\/v1503171266\/h7zwhjxwb7ltui7qnvnw.pdf",
+          "style": "IPA - Session \/ India Session Ale",
+          "name": "All Day IPA",
+          "tags": [
+            {
+              "__type": "Pointer",
+              "className": "Tag",
+              "objectId": "5"
+            },
+            {
+              "__type": "Pointer",
+              "className": "Tag",
+              "objectId": "19"
+            },
+            {
+              "__type": "Pointer",
+              "className": "Tag",
+              "objectId": "49"
+            },
+            {
+              "__type": "Pointer",
+              "className": "Tag",
+              "objectId": "76"
+            }
+          ],
+          "searchedForUntappdID": true,
+          "updatedAt": "2017-08-29T02:39:39.623Z",
+          "body": 0.5,
+          "abv": 0.047,
+          "maltHop": 0.5,
+          "tier": {
+            "__type": "Pointer",
+            "className": "Tier",
+            "objectId": "2"
+          },
+          "objectId": "376",
+          "__type": "Object",
+          "className": "Beer"
+        },
+        {
+          "untappdID": "63399",
+          "name": "10K IPA",
+          "label": "https:\/\/untappd.akamaized.net\/site\/assets\/images\/temp\/badge-beer-default.png",
+          "brewer": "Founders Brewing Co.",
+          "abv": 0.091,
+          "ibu": 86,
+          "createdAt": "2017-08-30T13:36:05.485Z",
+          "updatedAt": "2017-08-30T13:36:05.485Z",
+          "objectId": "6lrIkrbkwi",
+          "__type": "Object",
+          "className": "Beer"
+        },
+        {
+          "untappdID": "2190250",
+          "name": "Expression Session",
+          "label": "https:\/\/untappd.akamaized.net\/site\/assets\/images\/temp\/badge-beer-default.png",
+          "brewer": "Freigeist Bierkultur",
+          "abv": 0.05,
+          "ibu": 0,
+          "createdAt": "2017-08-30T13:36:05.496Z",
+          "updatedAt": "2017-08-30T13:36:05.496Z",
+          "objectId": "O6ctOuC4MZ",
+          "__type": "Object",
+          "className": "Beer"
+        },
+        {
+          "updatedAt": "2017-08-10T17:25:12.513Z",
+          "ibu": null,
+          "drySweet": 0.43,
+          "maltHop": 0.56,
+          "crispRich": 0.38,
+          "tier": {
+            "__type": "Pointer",
+            "className": "Tier",
+            "objectId": "2"
+          },
+          "createdAt": "2016-01-11T03:13:52.528Z",
+          "name": "IPA",
+          "body": 0.48,
+          "tags": [
+            {
+              "__type": "Pointer",
+              "className": "Tag",
+              "objectId": "53"
+            }
+          ],
+          "abv": 0.062,
+          "brewer": "Lagunitas Brewing Company",
+          "untappdID": "4509",
+          "untappdString": "IPA (Lagunitas Brewing Company)",
+          "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-4509_1ce65_sm.jpeg",
+          "searchedForUntappdID": true,
+          "style": "IPA - American",
+          "objectId": "1115",
+          "__type": "Object",
+          "className": "Beer"
+        },
+        {
+          "name": "A Little Sumpin' Sumpin' Ale",
+          "maltHop": 0.6,
+          "crispRich": 0.4,
+          "brewer": "Lagunitas Brewing Company",
+          "tier": {
+            "__type": "Pointer",
+            "className": "Tier",
+            "objectId": "2"
+          },
+          "abv": 0.075,
+          "createdAt": "2016-01-11T03:13:49.000Z",
+          "tags": [
+            {
+              "__type": "Pointer",
+              "className": "Tag",
+              "objectId": "5"
+            },
+            {
+              "__type": "Pointer",
+              "className": "Tag",
+              "objectId": "19"
+            },
+            {
+              "__type": "Pointer",
+              "className": "Tag",
+              "objectId": "119"
+            }
+          ],
+          "ibu": null,
+          "updatedAt": "2017-08-16T21:46:30.318Z",
+          "drySweet": 0.6,
+          "body": 0.5,
+          "untappdID": "25796",
+          "untappdString": "A Little Sumpin' Sumpin' Ale (Lagunitas Brewing Company)",
+          "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-25796_43b95_sm.jpeg",
+          "description": "\n# Beer Description\n\nWay smooth and silky with a nice wheaty-esque-ish-ness. Just the little sumpin' sumpin' we all need to kick Summer into full swing!\n\n# What you should know\n\nDepending on who you ask, A Little Sumpin Sumpin is either an wheat ale or an IPA. It's an pale wheat ale with enough hops to please your inner hop head.\n\n# The Boys' Take\n\nWhen we drink this one, we taste straight grapefruit. It's wheaty, sure, but always surprisingly dry and bitter and just a little bit sour.\n\n# About the Brewer\n\nThe Lagunitas Brewing Company is a brewery founded in 1993 in Lagunitas, California. They are known for iconoclastic interpretations of traditional beer styles, and irreverent descriptive text and stories on their packaging. The company is the fifth top selling craft brewery in the US, and has a very strong lineup of beers in all styles. It's rare to find one that you won't like. Try especially the Sonoma Farmhouse Hop Stoopid, a spicy Double IPA and the ironically-named Lagunitas Sucks.\n\n# Drink this if You Like\n\nWest Coast IPAs, Pale Ales, Wheat Ales\n\n# Ideal for People who Like\n\nGrapefruit, that little sumthin, summer\n\n# Drink While You Are\n\nWaking up onthose Saturday summer mornings\n\n# Pair With\n\nSaffron, scallops, veggies, sushi, fruit salad, halibut, chips, mozzarella\n",
+          "searchedForUntappdID": true,
+          "style": "Pale Wheat Ale - American",
+          "objectId": "455",
+          "__type": "Object",
+          "className": "Beer"
+        },
+        {
+          "name": "Duboce Park I.P.A.",
+          "untappdID": "1111207",
+          "brewer": "Local Brewing Co.",
+          "updatedAt": "2017-05-08T02:05:45.811Z",
+          "ibu": 69,
+          "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-1111207_d2c90_sm.jpeg",
+          "createdAt": "2016-11-07T23:57:58.636Z",
+          "abv": 0.076,
+          "searchedForUntappdID": true,
+          "style": "IPA - American",
+          "objectId": "5yvprBF5GW",
+          "__type": "Object",
+          "className": "Beer"
+        },
+        {
+          "untappdID": "2201853",
+          "name": "Hundo SMASH",
+          "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-2201853_7a871_sm.jpeg",
+          "brewer": "Local Brewing Co.",
+          "abv": 0.05,
+          "ibu": 50,
+          "createdAt": "2017-08-30T13:36:05.538Z",
+          "updatedAt": "2017-08-30T13:36:05.538Z",
+          "objectId": "pv6Bw5Q2GE",
+          "__type": "Object",
+          "className": "Beer"
+        },
+        {
+          "untappdID": "2244791",
+          "name": "Lit",
+          "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-2244791_d9452_sm.jpeg",
+          "brewer": "Local Brewing Co.",
+          "abv": 0.06,
+          "ibu": 40,
+          "createdAt": "2017-08-30T13:36:05.769Z",
+          "updatedAt": "2017-08-30T13:36:05.769Z",
+          "objectId": "JT7GvGUETh",
+          "__type": "Object",
+          "className": "Beer"
+        },
+        {
+          "untappdID": "1161162",
+          "name": "Mastodon Mother Puncher",
+          "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-1161162_43f40_sm.jpeg",
+          "brewer": "Mikkeller",
+          "abv": 0.066,
+          "ibu": 0,
+          "createdAt": "2017-08-30T13:36:05.738Z",
+          "updatedAt": "2017-08-30T13:36:05.738Z",
+          "objectId": "RGGdYXWyZO",
+          "__type": "Object",
+          "className": "Beer"
+        },
+        {
+          "untappdID": "666511",
+          "name": "Tiger Baby",
+          "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-666511_df00f_sm.jpeg",
+          "brewer": "Mikkeller",
+          "abv": 0.05,
+          "ibu": 0,
+          "createdAt": "2017-08-30T13:36:05.861Z",
+          "updatedAt": "2017-08-30T13:36:05.861Z",
+          "objectId": "bEf4e09X0R",
+          "__type": "Object",
+          "className": "Beer"
+        },
+        {
+          "name": "Pacific Rain",
+          "brewer": "Ninkasi Brewing Company",
+          "abv": 0.054,
+          "ibu": 50,
+          "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-1913369_2b2cd_sm.jpeg",
+          "style": "Pale Ale",
+          "untappdID": "1913369",
+          "createdAt": "2017-05-15T00:30:15.626Z",
+          "updatedAt": "2017-06-09T18:53:45.749Z",
+          "body": null,
+          "drySweet": null,
+          "maltHop": null,
+          "crispRich": null,
+          "pdfURL": "https:\/\/res.cloudinary.com\/brewpublik\/image\/upload\/v1497034423\/jlmjpgwxl03vujdiajw3.pdf",
+          "objectId": "N3p90ADDYq",
+          "__type": "Object",
+          "className": "Beer"
+        },
+        {
+          "abv": 0.08,
+          "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-6412_215b9_sm.jpeg",
+          "name": "Tricerahops ",
+          "untappdID": "6412",
+          "createdAt": "2016-04-01T05:35:41.034Z",
+          "updatedAt": "2017-06-05T17:12:32.312Z",
+          "brewer": "Ninkasi Brewing Company",
+          "ibu": null,
+          "searchedForUntappdID": true,
+          "style": "IPA - Imperial \/ Double",
+          "objectId": "GbTDt1RHxQ",
+          "__type": "Object",
+          "className": "Beer"
+        },
+        {
+          "untappdID": "1963858",
+          "name": "Megalodom",
+          "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-1963858_8d2c7_sm.jpeg",
+          "brewer": "Ninkasi Brewing Company",
+          "abv": 0.1,
+          "ibu": 100,
+          "createdAt": "2017-08-30T13:36:05.879Z",
+          "updatedAt": "2017-08-30T13:36:05.879Z",
+          "objectId": "tFnB9OGxnU",
+          "__type": "Object",
+          "className": "Beer"
+        }
+      ],
+      "company": {
+        "__type": "Pointer",
+        "className": "Company",
+        "objectId": "Hzvr3cDVQa"
+      },
+      "title": "Hoppy",
+      "description": "IPA, DIPA, Pale Ale",
+      "createdAt": "2017-08-30T13:36:06.145Z",
+      "updatedAt": "2017-08-30T13:36:06.145Z",
+      "ACL": {
+        "*": {
+          "read": true,
+          "write": true
+        }
+      },
+      "objectId": "zbgg6n6VsO",
+      "__type": "Object",
+      "className": "Collections"
+    },
+    {
+      "states": [
+        "sc"
+      ],
+      "beers": [
+        {
+          "tier": {
+            "__type": "Pointer",
+            "className": "Tier",
+            "objectId": "2"
+          },
+          "ibu": 25,
+          "body": null,
+          "drySweet": null,
+          "crispRich": null,
+          "name": "Andygator",
+          "brewer": "Abita Brewing Company",
+          "tags": [
+            {
+              "__type": "Pointer",
+              "className": "Tag",
+              "objectId": "5"
+            },
+            {
+              "__type": "Pointer",
+              "className": "Tag",
+              "objectId": "19"
+            },
+            {
+              "__type": "Pointer",
+              "className": "Tag",
+              "objectId": "46"
+            },
+            {
+              "__type": "Pointer",
+              "className": "Tag",
+              "objectId": "117"
+            }
+          ],
+          "abv": 0.08,
+          "updatedAt": "2017-08-01T19:38:11.066Z",
+          "createdAt": "2016-01-11T03:13:47.933Z",
+          "maltHop": null,
+          "untappdID": "5627",
+          "untappdString": "Andygator (Abita Brewing Company)",
+          "searchedForUntappdID": true,
+          "style": "Maibock \/ Heller (Helles) Bock",
+          "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-5627_5a200_sm.jpeg",
+          "objectId": "162",
+          "__type": "Object",
+          "className": "Beer"
+        },
+        {
+          "description": "\n# Beer Description\n\nAbita Purple Haze is a crisp, American style wheat beer with fresh raspberries added during secondary fermentation. Subtle coloration, fruity aroma and tartly sweet taste.\n\n# What you Need to Know\n\nThis beer is a lager, meaning is fermented with lager yeast and kept cold (45-50 degrees) during fermentation. This keeps the flavors crisp and clear (instead of influences by other flavors in the air). The raspberries are added after the beer is bottled.\n\n# About the Brewer\n\nAbita was founded in 1986, and is in many ways the quintessential Southern beer. Brewed in Abita Springs, LA (40 minutes north of New Orleans), Abita makes a wide range of brews, some of which are perfect for pairing with seersucker and sticky nights- and that's something we need here in the South. Another added benefit is the pure, deep water from Abita Springs- this is the last little bit that kicks Abita beer \"up a notch!\" Most Abita beers are light drinking and perfect for summer nights, and are made with all-natural, high-quality ingredients.\n\n# Drink this if You Like\n\nSmooth lagers, sweet\/tangy beer\n\n# Ideal for People who Like\n\nLouisiana, raspberries, Jimmy Hendricks, Seer sucker\n\n# Drinking While you Are\n\nBoogying, or at a hoedown\n\n# Pair with\n\nSalad, light dessert, chocolate, Brie, mascarpone, citrus\n",
+          "crispRich": 0.4,
+          "createdAt": "2016-01-11T03:13:48.926Z",
+          "drySweet": 0.6,
+          "ibu": null,
+          "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-4995_3e5d4_sm.jpeg",
+          "untappdID": "4995",
+          "brewer": "Abita Brewing Company",
+          "untappdString": "Purple Haze (Abita Brewing Company)",
+          "pdfURL": "https:\/\/res.cloudinary.com\/brewpublik\/image\/upload\/v1496241715\/oqrscrw4l1znejafsb1q.pdf",
+          "style": "Fruit Beer",
+          "name": "Purple Haze",
+          "tags": [
+            {
+              "__type": "Pointer",
+              "className": "Tag",
+              "objectId": "5"
+            },
+            {
+              "__type": "Pointer",
+              "className": "Tag",
+              "objectId": "19"
+            },
+            {
+              "__type": "Pointer",
+              "className": "Tag",
+              "objectId": "40"
+            },
+            {
+              "__type": "Pointer",
+              "className": "Tag",
+              "objectId": "117"
+            }
+          ],
+          "searchedForUntappdID": true,
+          "updatedAt": "2017-08-07T15:17:23.756Z",
+          "body": 0.4,
+          "abv": 0.042,
+          "maltHop": 0.4,
+          "tier": {
+            "__type": "Pointer",
+            "className": "Tier",
+            "objectId": "2"
+          },
+          "objectId": "167",
+          "__type": "Object",
+          "className": "Beer"
+        },
+        {
+          "untappdID": "1433088",
+          "name": "La Bassa",
+          "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-1433088_8042c_sm.jpeg",
+          "brewer": "BrewFist",
+          "abv": 0.052,
+          "ibu": 30,
+          "createdAt": "2017-06-11T23:55:33.499Z",
+          "updatedAt": "2017-06-11T23:55:33.499Z",
+          "objectId": "LoTsT98v1Y",
+          "__type": "Object",
+          "className": "Beer"
+        },
+        {
+          "createdAt": "2016-01-25T04:46:03.610Z",
+          "updatedAt": "2017-08-08T14:24:49.383Z",
+          "brewer": "Coors Brewing Company",
+          "untappdID": "3834",
+          "ibu": null,
+          "untappdString": "Coors Light (Coors Brewing Company)",
+          "name": "Coors Light",
+          "abv": 0.042,
+          "breweryDBID": "XcvLTe",
+          "breweryDBString": "Coors Light (Coors Brewing Company)",
+          "body": 0.4,
+          "crispRich": 0.3,
+          "drySweet": 0.4,
+          "maltHop": 0.3,
+          "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-3834_9e28f_sm.jpeg",
+          "searchedForUntappdID": true,
+          "style": "Lager - American Light",
+          "objectId": "2oypo4fWF8",
+          "__type": "Object",
+          "className": "Beer"
+        },
+        {
+          "crispRich": 0.5,
+          "brewer": "Grupo Modelo",
+          "updatedAt": "2017-08-10T22:14:59.972Z",
+          "abv": 0.054,
+          "body": 0.4,
+          "tier": {
+            "__type": "Pointer",
+            "className": "Tier",
+            "objectId": "2"
+          },
+          "maltHop": 0.3,
+          "drySweet": 0.5,
+          "name": "Negra Modelo",
+          "createdAt": "2016-01-11T03:13:49.807Z",
+          "ibu": null,
+          "tags": [
+            
+          ],
+          "untappdString": "Negra Modelo (Grupo Modelo S.A. de C.V.)",
+          "untappdID": "5852",
+          "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-5852_8a853_sm.jpeg",
+          "searchedForUntappdID": true,
+          "style": "Lager - Vienna",
+          "objectId": "1164",
+          "__type": "Object",
+          "className": "Beer"
+        },
+        {
+          "untappdID": "5850",
+          "brewer": "Grupo Modelo",
+          "ibu": null,
+          "name": "Pacifico Clara",
+          "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-PacificoClara_5850.jpeg",
+          "createdAt": "2016-03-15T23:39:07.345Z",
+          "updatedAt": "2017-08-16T23:22:02.971Z",
+          "abv": 0.045,
+          "drySweet": 0.27,
+          "maltHop": 0.25,
+          "crispRich": 0.22,
+          "body": 0.16,
+          "searchedForUntappdID": true,
+          "style": "Lager - North American Adjunct",
+          "pdfURL": "https:\/\/res.cloudinary.com\/brewpublik\/image\/upload\/v1495808939\/kpy0ck3evlvt66kbu1zm.pdf",
+          "objectId": "B0IAwkhBok",
+          "__type": "Object",
+          "className": "Beer"
+        },
+        {
+          "brewer": "Grupo Modelo",
+          "name": "Modelo Especial",
+          "createdAt": "2016-01-25T05:41:15.645Z",
+          "breweryDBID": "VSrDho",
+          "breweryDBString": "Modelo Especial (Grupo Modelo S.A. de C.V.)",
+          "untappdID": "6277",
+          "ibu": null,
+          "abv": 0.045,
+          "untappdString": "Modelo Especial (Grupo Modelo S.A. de C.V.)",
+          "updatedAt": "2017-08-16T21:47:20.865Z",
+          "body": 0.3,
+          "crispRich": 0.4,
+          "drySweet": 0.4,
+          "maltHop": 0.4,
+          "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-6277_5e0f2_sm.jpeg",
+          "searchedForUntappdID": true,
+          "style": "Lager - North American Adjunct",
+          "objectId": "7pkKAX6dCg",
+          "__type": "Object",
+          "className": "Beer"
+        },
+        {
+          "crispRich": 0.2,
+          "maltHop": 0.3,
+          "tier": {
+            "__type": "Pointer",
+            "className": "Tier",
+            "objectId": "3"
+          },
+          "createdAt": "2016-01-11T03:13:51.249Z",
+          "updatedAt": "2017-08-26T02:48:02.779Z",
+          "ibu": null,
+          "body": 0.2,
+          "brewer": "Grupo Modelo",
+          "tags": [
+            {
+              "__type": "Pointer",
+              "className": "Tag",
+              "objectId": "134"
+            },
+            {
+              "__type": "Pointer",
+              "className": "Tag",
+              "objectId": "117"
+            },
+            {
+              "__type": "Pointer",
+              "className": "Tag",
+              "objectId": "5"
+            },
+            {
+              "__type": "Pointer",
+              "className": "Tag",
+              "objectId": "19"
+            },
+            {
+              "__type": "Pointer",
+              "className": "Tag",
+              "objectId": "68"
+            }
+          ],
+          "drySweet": 0.6,
+          "name": "Corona Extra (Coronita, Mega)",
+          "abv": 0.045,
+          "untappdID": "5848",
+          "untappdString": "Corona Extra (Coronita (Grupo Modelo S.A. de C.V.)",
+          "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-5848_e782f_sm.jpeg",
+          "searchedForUntappdID": true,
+          "style": "Lager - North American Adjunct",
+          "objectId": "308",
+          "__type": "Object",
+          "className": "Beer"
+        },
+        {
+          "name": "Corona Light",
+          "createdAt": "2016-01-11T03:13:49.626Z",
+          "updatedAt": "2017-06-28T15:07:11.516Z",
+          "body": 0.2,
+          "tier": {
+            "__type": "Pointer",
+            "className": "Tier",
+            "objectId": "2"
+          },
+          "maltHop": 0.2,
+          "tags": [
+            
+          ],
+          "drySweet": 0.4,
+          "abv": 0.04,
+          "ibu": null,
+          "brewer": "Grupo Modelo",
+          "crispRich": 0.2,
+          "untappdID": "5849",
+          "untappdString": "Corona Light (Grupo Modelo S.A. de C.V.)",
+          "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-5849_70959_sm.jpeg",
+          "searchedForUntappdID": true,
+          "style": "Lager - American Light",
+          "objectId": "1131",
+          "__type": "Object",
+          "className": "Beer"
+        },
+        {
+          "untappdID": "1854569",
+          "name": "Frootwood",
+          "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-1854569_3a79c_sm.jpeg",
+          "brewer": "Founders Brewing Co.",
+          "abv": 0.08,
+          "ibu": null,
+          "createdAt": "2017-03-15T05:21:28.597Z",
+          "updatedAt": "2017-07-24T00:40:34.423Z",
+          "searchedForUntappdID": true,
+          "style": "Fruit Beer",
+          "objectId": "7MvUPGYPRt",
+          "__type": "Object",
+          "className": "Beer"
+        },
+        {
+          "untappdID": "942218",
+          "name": "Festivus Wheat",
+          "label": "https:\/\/untappd.akamaized.net\/site\/assets\/images\/temp\/badge-beer-default.png",
+          "brewer": "Founders Brewing Co.",
+          "abv": 0.066,
+          "ibu": 0,
+          "createdAt": "2017-08-30T13:43:33.534Z",
+          "updatedAt": "2017-08-30T13:43:33.534Z",
+          "objectId": "UaHa34m2Jp",
+          "__type": "Object",
+          "className": "Beer"
+        },
+        {
+          "ibu": 45,
+          "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-1338289_59994_sm.jpeg",
+          "name": "PC Pils",
+          "untappdID": "1338289",
+          "updatedAt": "2017-05-07T21:18:01.485Z",
+          "brewer": "Founders Brewing Co.",
+          "abv": 0.056,
+          "createdAt": "2016-10-03T16:11:39.435Z",
+          "searchedForUntappdID": true,
+          "style": "Pilsner - Other",
+          "objectId": "BdWUvspjOC",
+          "__type": "Object",
+          "className": "Beer"
+        },
+        {
+          "updatedAt": "2017-04-28T13:04:27.131Z",
+          "name": "Pils",
+          "brewer": "Lagunitas Brewing Company",
+          "drySweet": 0.3,
+          "ibu": 35,
+          "maltHop": 0.5,
+          "crispRich": 0.4,
+          "body": 0.4,
+          "tier": {
+            "__type": "Pointer",
+            "className": "Tier",
+            "objectId": "2"
+          },
+          "abv": 0.06,
+          "createdAt": "2016-01-11T03:13:49.707Z",
+          "tags": [
+            {
+              "__type": "Pointer",
+              "className": "Tag",
+              "objectId": "117"
+            },
+            {
+              "__type": "Pointer",
+              "className": "Tag",
+              "objectId": "5"
+            },
+            {
+              "__type": "Pointer",
+              "className": "Tag",
+              "objectId": "19"
+            },
+            {
+              "__type": "Pointer",
+              "className": "Tag",
+              "objectId": "107"
+            },
+            {
+              "__type": "Pointer",
+              "className": "Tag",
+              "objectId": "134"
+            }
+          ],
+          "untappdString": "Pils (Lagunitas Brewing Company)",
+          "untappdID": "6725",
+          "description": "\n# Beer Description\n\nAt the height of the heat in the heart of the summer, we felt that the only cure was a raging mouthful of fresh hops and malt. Caution: May remove enamel from teeth. This is Lagunitas IPA pumped up by about 30%!\n\n# What you should know\n\nThis is a classic West Coast IPA. East Coast IPAs are distinguished from West Coast IPAs by a stronger malt presence which balances the intensity of the hops whereas the latter foreground the hops more, possibly because of the proximity of West Coast breweries to hop fields in the Pacific Northwest. East Coast breweries rely more on spicier European hops and specialty malts than those on the West Coast\n\n# The Boys' Take\n\nIt took us a minute to recover from the disturbing tale we found when we looked up who John and Lorena were, but after that, we thoroughly enjoyed this pilsener. Warning though- don't be fooled by the pilsener label- there's no Corn Chex taste here. Only traditional European hops taste.\n\n# About the Brewer\n\nThe Lagunitas Brewing Company is a brewery founded in 1993 in Lagunitas, California. They are known for iconoclastic interpretations of traditional beer styles, and irreverent descriptive text and stories on their packaging. The company is the fifth top selling craft brewery in the US\n\n# Drink this if You Like\n\nwest coast IPA's, resinous hoppy beers.\n\n# Ideal for People who Like\n\nMonster trucks, taking everything to the max, Gladiator\n\n# Drink While You Are\n\nparticipating in a Spartan race or other extreme activities.\n\n# Pair With\n\nBBQ, non-spicy Asian dishes, low country boil.\n",
+          "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-PILS_6725.jpeg",
+          "searchedForUntappdID": true,
+          "style": "Pilsner - Czech",
+          "objectId": "459",
+          "__type": "Object",
+          "className": "Beer"
+        },
+        {
+          "untappdID": "2148199",
+          "name": "Beer Cooler (Nitro)",
+          "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-2148199_b9df3_sm.jpeg",
+          "brewer": "Local Brewing Co.",
+          "abv": 0.05,
+          "ibu": 12,
+          "createdAt": "2017-08-30T13:43:33.571Z",
+          "updatedAt": "2017-08-30T13:43:33.571Z",
+          "objectId": "F5KGhtfhep",
+          "__type": "Object",
+          "className": "Beer"
+        },
+        {
+          "untappdID": "1071583",
+          "name": "Bluxome Black Lager",
+          "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-1071583_e4676_sm.jpeg",
+          "brewer": "Local Brewing Co.",
+          "abv": 0.05,
+          "ibu": 20,
+          "createdAt": "2017-08-30T13:43:33.570Z",
+          "updatedAt": "2017-08-30T13:43:33.570Z",
+          "objectId": "9oW7jI2UQL",
+          "__type": "Object",
+          "className": "Beer"
+        },
+        {
+          "untappdID": "2131688",
+          "name": "Let's Get Tropical",
+          "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-2131688_dc978_sm.jpeg",
+          "brewer": "Local Brewing Co.",
+          "abv": 0.061,
+          "ibu": 18,
+          "createdAt": "2017-08-30T13:43:33.609Z",
+          "updatedAt": "2017-08-30T13:43:33.609Z",
+          "objectId": "lr7cL7EnFO",
+          "__type": "Object",
+          "className": "Beer"
+        },
+        {
+          "untappdID": "2210498",
+          "name": "Pollinator B",
+          "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-2210498_3cb37_sm.jpeg",
+          "brewer": "Local Brewing Co.",
+          "abv": 0.06,
+          "ibu": 16,
+          "createdAt": "2017-08-30T13:43:33.592Z",
+          "updatedAt": "2017-08-30T13:43:33.592Z",
+          "objectId": "I5FADtCqst",
+          "__type": "Object",
+          "className": "Beer"
+        },
+        {
+          "untappdID": "311860",
+          "name": "SF Lager",
+          "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-311860_b516c_sm.jpeg",
+          "brewer": "Local Brewing Co.",
+          "abv": 0.052,
+          "ibu": 30,
+          "createdAt": "2017-08-30T13:43:33.638Z",
+          "updatedAt": "2017-08-30T13:43:33.638Z",
+          "objectId": "Xwn20ThNMA",
+          "__type": "Object",
+          "className": "Beer"
+        },
+        {
+          "untappdID": "1418280",
+          "name": "White Lung (w\/ Domino Records)",
+          "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-1418280_7639f_sm.jpeg",
+          "brewer": "Mikkeller",
+          "abv": 0.067,
+          "ibu": 0,
+          "createdAt": "2017-08-30T13:43:33.819Z",
+          "updatedAt": "2017-08-30T13:43:33.819Z",
+          "objectId": "TCFpbkSF2n",
+          "__type": "Object",
+          "className": "Beer"
+        },
+        {
+          "untappdID": "621189",
+          "name": "Chill Pils Orange",
+          "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-621189_8d8d8_sm.jpeg",
+          "brewer": "Mikkeller",
+          "abv": 0.047,
+          "ibu": 30,
+          "createdAt": "2017-08-30T13:43:34.009Z",
+          "updatedAt": "2017-08-30T13:43:34.009Z",
+          "objectId": "nomljhQRwN",
+          "__type": "Object",
+          "className": "Beer"
+        },
+        {
+          "untappdID": "1039446",
+          "name": "Metal Henry Schwarzbier",
+          "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-1039446_ced9a_sm.jpeg",
+          "brewer": "Mikkeller",
+          "abv": 0.055,
+          "ibu": 0,
+          "createdAt": "2017-08-30T13:43:33.787Z",
+          "updatedAt": "2017-08-30T13:43:33.787Z",
+          "objectId": "g78huXZBod",
+          "__type": "Object",
+          "className": "Beer"
+        },
+        {
+          "untappdID": "951161",
+          "name": "Running Club",
+          "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-951161_89b8e_sm.jpeg",
+          "brewer": "Mikkeller",
+          "abv": 0.045,
+          "ibu": 0,
+          "createdAt": "2017-08-30T13:43:34.225Z",
+          "updatedAt": "2017-08-30T13:43:34.225Z",
+          "objectId": "tkNqQhOZYd",
+          "__type": "Object",
+          "className": "Beer"
+        },
+        {
+          "body": 0.5,
+          "crispRich": 0.2,
+          "name": "Pilsner Urquell",
+          "createdAt": "2016-01-11T03:13:51.471Z",
+          "drySweet": 0.6,
+          "brewer": "Plze\u0148sk\u00fd Prazdroj",
+          "updatedAt": "2017-08-29T02:39:40.172Z",
+          "abv": 0.044,
+          "ibu": 40,
+          "tier": {
+            "__type": "Pointer",
+            "className": "Tier",
+            "objectId": "3"
+          },
+          "maltHop": 0.6,
+          "tags": [
+            {
+              "__type": "Pointer",
+              "className": "Tag",
+              "objectId": "19"
+            },
+            {
+              "__type": "Pointer",
+              "className": "Tag",
+              "objectId": "107"
+            },
+            {
+              "__type": "Pointer",
+              "className": "Tag",
+              "objectId": "117"
+            },
+            {
+              "__type": "Pointer",
+              "className": "Tag",
+              "objectId": "131"
+            },
+            {
+              "__type": "Pointer",
+              "className": "Tag",
+              "objectId": "134"
+            }
+          ],
+          "untappdID": "37936",
+          "untappdString": "Pilsner Urquell (Plze\u00c5\u0088sk\u00c3\u00bd Prazdroj)",
+          "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-37936_ebe52_sm.jpeg",
+          "description": "\n# Beer Description\n\nIt is called the \"model of meter\" among beers. All other pilsners are a better or worse attempt to copy the original - the first ever Pilsner Urquell. Its unparalleled exceptionality is guaranteed by the same recipe dating from 1842.\n\n# What you should know\n\nThis is it, the beer that launched a thousand \"ships\" of imitators on both sides of the Atlantic. The town of Plzen (part of Bohemia, Czechoslovakia, then the Czech Republic) had soft water and abundant Saaz hops, and created a beer that was light, pale and crisp, in the 1840s. Remember, back then, refrigeration was non-existent, so contemporary beers were dark, cloudy and rough (pale beers spoil more easily). This crisp, refreshing lager was a revolution then, and was quickly copied in Germany (where the style was called \"Pils\" out of respect). Then it got to America, and well, we know where that went (Budweiser)\n\n# The Boys' Take\n\nAs pilsners should be- light, crisp, slightly malty in the beginning and then a long, bitter finish making you want more. It's the original.\n\n# Drink this if You Like\n\nLagers, lawnmower beers, Continental pilsners\n\n# Ideal for People who Like\n\nEuropean land wars, tiny Czech towns, cobblestones\n\n# Drink While You Are\n\nChanging the world, respecting the classics\n\n# Pair With\n\nGerman or Czech dishes; sausage, boiled vegetables, goat's cheese, white cheddar, creamy soup, spicy chicken\n",
+          "searchedForUntappdID": true,
+          "style": "Pilsner - Czech",
+          "objectId": "533",
+          "__type": "Object",
+          "className": "Beer"
+        },
+        {
+          "name": "Peroni Original",
+          "createdAt": "2016-09-12T20:20:18.260Z",
+          "updatedAt": "2017-07-10T14:40:38.781Z",
+          "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-_55151_c9cbad39d46c17353631a3f211cd.jpeg",
+          "brewer": "Birra Peroni",
+          "abv": 0.047,
+          "ibu": null,
+          "untappdID": "55151",
+          "searchedForUntappdID": true,
+          "style": "Lager - Pale",
+          "objectId": "qVkFiKaqaX",
+          "__type": "Object",
+          "className": "Beer"
+        },
+        {
+          "name": "Miller Lite",
+          "tags": [
+            {
+              "__type": "Pointer",
+              "className": "Tag",
+              "objectId": "117"
+            },
+            {
+              "__type": "Pointer",
+              "className": "Tag",
+              "objectId": "5"
+            },
+            {
+              "__type": "Pointer",
+              "className": "Tag",
+              "objectId": "19"
+            },
+            {
+              "__type": "Pointer",
+              "className": "Tag",
+              "objectId": "68"
+            },
+            {
+              "__type": "Pointer",
+              "className": "Tag",
+              "objectId": "134"
+            }
+          ],
+          "body": 0.3,
+          "createdAt": "2016-01-11T03:13:53.158Z",
+          "maltHop": 0.4,
+          "abv": 0.042,
+          "tier": {
+            "__type": "Pointer",
+            "className": "Tier",
+            "objectId": "3"
+          },
+          "updatedAt": "2017-08-16T23:22:02.975Z",
+          "ibu": null,
+          "drySweet": 0.4,
+          "brewer": "Miller Brewing Company",
+          "crispRich": 0.3,
+          "untappdID": "3811",
+          "untappdString": "Miller Lite (Miller Brewing Company)",
+          "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-3811_00614_sm.jpeg",
+          "searchedForUntappdID": true,
+          "style": "Pilsner - Other",
+          "objectId": "478",
+          "__type": "Object",
+          "className": "Beer"
+        },
+        {
+          "untappdID": "480",
+          "name": "M\u00f6nchshof Schwarzbier",
+          "brewer": "Kulmbacher Brauerei",
+          "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-480_2e576_sm.jpeg",
+          "abv": 0.049,
+          "ibu": 0,
+          "createdAt": "2016-11-01T20:48:38.774Z",
+          "updatedAt": "2017-05-08T00:33:42.130Z",
+          "searchedForUntappdID": true,
+          "style": "Schwarzbier",
+          "objectId": "RKyhUpKUYZ",
+          "__type": "Object",
+          "className": "Beer"
+        },
+        {
+          "abv": 0.053,
+          "createdAt": "2016-11-07T23:52:22.421Z",
+          "updatedAt": "2017-06-09T18:50:59.355Z",
+          "brewer": "Ninkasi Brewing Company",
+          "ibu": 28,
+          "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-67418_dfbe8_sm.jpeg",
+          "name": "Helles Belles",
+          "untappdID": "67418",
+          "searchedForUntappdID": true,
+          "style": "Lager - Helles",
+          "body": null,
+          "drySweet": null,
+          "maltHop": null,
+          "crispRich": null,
+          "pdfURL": "https:\/\/res.cloudinary.com\/brewpublik\/image\/upload\/v1497034257\/hhezqa7gf4vvyth8rfds.pdf",
+          "objectId": "yt9bZS72Ue",
+          "__type": "Object",
+          "className": "Beer"
+        },
+        {
+          "untappdID": "985873",
+          "name": "Passionfruit Wheat Ale",
+          "label": "https:\/\/untappd.akamaized.net\/site\/assets\/images\/temp\/badge-beer-default.png",
+          "brewer": "Pasteur Street Brewing Company",
+          "abv": 0.055,
+          "ibu": 0,
+          "createdAt": "2017-08-30T13:43:34.194Z",
+          "updatedAt": "2017-08-30T13:43:34.194Z",
+          "objectId": "MlwIGs8zlN",
+          "__type": "Object",
+          "className": "Beer"
+        },
+        {
+          "crispRich": 0.7,
+          "ibu": null,
+          "tier": {
+            "__type": "Pointer",
+            "className": "Tier",
+            "objectId": "3"
+          },
+          "tags": [
+            {
+              "__type": "Pointer",
+              "className": "Tag",
+              "objectId": "117"
+            },
+            {
+              "__type": "Pointer",
+              "className": "Tag",
+              "objectId": "4"
+            },
+            {
+              "__type": "Pointer",
+              "className": "Tag",
+              "objectId": "5"
+            },
+            {
+              "__type": "Pointer",
+              "className": "Tag",
+              "objectId": "19"
+            },
+            {
+              "__type": "Pointer",
+              "className": "Tag",
+              "objectId": "134"
+            }
+          ],
+          "body": 0.6,
+          "createdAt": "2016-01-11T03:13:52.806Z",
+          "drySweet": 0.6,
+          "name": "Shiner Bock",
+          "abv": 0.044,
+          "updatedAt": "2017-06-16T17:13:53.821Z",
+          "maltHop": 0.4,
+          "brewer": "Spoetzl Brewery",
+          "untappdID": "4488",
+          "untappdString": "Shiner Bock (Spoetzl Brewery)",
+          "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-4488_3b1ec_sm.jpeg",
+          "searchedForUntappdID": true,
+          "style": "Bock",
+          "objectId": "572",
+          "__type": "Object",
+          "className": "Beer"
+        },
+        {
+          "createdAt": "2016-03-15T23:19:31.199Z",
+          "untappdID": "7025",
+          "name": "Trumer Pils",
+          "abv": 0.049,
+          "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-TrumerPils_7025.jpeg",
+          "updatedAt": "2017-08-01T19:47:10.827Z",
+          "brewer": "Trumer Privatbrauerei",
+          "ibu": null,
+          "searchedForUntappdID": true,
+          "style": "Pilsner - German",
+          "body": null,
+          "drySweet": null,
+          "maltHop": null,
+          "crispRich": null,
+          "pdfURL": "https:\/\/res.cloudinary.com\/brewpublik\/image\/upload\/v1495809426\/vvktrhjscgy89cfkdqhc.pdf",
+          "objectId": "1rO5Ia1zEh",
+          "__type": "Object",
+          "className": "Beer"
+        }
+      ],
+      "company": {
+        "__type": "Pointer",
+        "className": "Company",
+        "objectId": "Hzvr3cDVQa"
+      },
+      "title": "Easy Drinking",
+      "description": "Golden, Pale Lager, Amber Lager, Wheat",
+      "createdAt": "2017-08-30T13:43:34.602Z",
+      "updatedAt": "2017-08-30T13:43:34.602Z",
+      "ACL": {
+        "*": {
+          "read": true,
+          "write": true
+        }
+      },
+      "objectId": "4Xt4erUhtP",
+      "__type": "Object",
+      "className": "Collections"
+    },
+    {
+      "states": [
+        "ca"
+      ],
+      "beers": [
+        {
+          "untappdID": "857",
+          "name": "XX-Bitter",
+          "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-XXBitter_857.jpeg",
+          "brewer": "Brouwerij De Ranke",
+          "abv": 0.06,
+          "ibu": 60,
+          "createdAt": "2017-08-30T13:45:23.399Z",
+          "updatedAt": "2017-08-30T13:45:23.399Z",
+          "objectId": "YestjVzfJR",
+          "__type": "Object",
+          "className": "Beer"
+        },
+        {
+          "ibu": 50,
+          "crispRich": null,
+          "body": null,
+          "abv": 0.098,
+          "maltHop": null,
+          "brewer": "Founders Brewing Co.",
+          "tier": {
+            "__type": "Pointer",
+            "className": "Tier",
+            "objectId": "1"
+          },
+          "name": "Curmudgeon",
+          "tags": [
+            {
+              "__type": "Pointer",
+              "className": "Tag",
+              "objectId": "117"
+            },
+            {
+              "__type": "Pointer",
+              "className": "Tag",
+              "objectId": "5"
+            },
+            {
+              "__type": "Pointer",
+              "className": "Tag",
+              "objectId": "19"
+            },
+            {
+              "__type": "Pointer",
+              "className": "Tag",
+              "objectId": "106"
+            }
+          ],
+          "drySweet": null,
+          "createdAt": "2016-01-11T03:13:52.596Z",
+          "updatedAt": "2017-08-29T02:39:39.991Z",
+          "untappdID": "42128",
+          "untappdString": "Curmudgeon Old Ale (Founders Brewing Co.)",
+          "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-FoundersOldComudgen.jpg",
+          "searchedForUntappdID": true,
+          "style": "Old Ale",
+          "objectId": "379",
+          "__type": "Object",
+          "className": "Beer"
+        },
+        {
+          "createdAt": "2016-01-11T03:13:52.957Z",
+          "updatedAt": "2017-06-22T18:23:15.176Z",
+          "brewer": "Founders Brewing Co.",
+          "crispRich": 0.7,
+          "ibu": 50,
+          "abv": 0.085,
+          "tier": {
+            "__type": "Pointer",
+            "className": "Tier",
+            "objectId": "2"
+          },
+          "name": "Dirty Bastard",
+          "drySweet": 0.6,
+          "tags": [
+            {
+              "__type": "Pointer",
+              "className": "Tag",
+              "objectId": "5"
+            },
+            {
+              "__type": "Pointer",
+              "className": "Tag",
+              "objectId": "19"
+            },
+            {
+              "__type": "Pointer",
+              "className": "Tag",
+              "objectId": "44"
+            },
+            {
+              "__type": "Pointer",
+              "className": "Tag",
+              "objectId": "75"
+            },
+            {
+              "__type": "Pointer",
+              "className": "Tag",
+              "objectId": "117"
+            }
+          ],
+          "body": 0.7,
+          "maltHop": 0.3,
+          "untappdString": "Dirty Bastard (Founders Brewing Co.)",
+          "untappdID": "1013",
+          "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-1013_bac4c_sm.jpeg",
+          "description": "\n# Beer Description\n\nFounders flagship beer. Dirty Bastard is an absolute beautiful beer to behold. Dark ruby in color and brewed with ten varieties of imported malts this beer continuously lives up to its reputation as a bold and powerful ale. Dirty Bastard is complex in the finish with hints of smoke and peat paired with a malty richness, finalized with a good bit of hop attitude. This beer \"ain't fer the wee lads\"\n\n# The Boy's Take\n\nObviously, today Founder's is one of the most successful craft breweries in America, and it all started with this beer. It's sorta in its own category, with anise and toffee flavors, and then of course the flavor of peat. The alcohol flavor is pretty strong with this one, so watch out if you're not a fan of dark liquor\n\n# About the Brewer\n\nFounder's Brewery is the pride and joy of Grand Rapids, MI. Mike Stevens and Dave Engbers started the brewery, and very quickly they realized they were running out of money- so they decided to stop playing it safe. Since then, Founder's has been a different brewery. This isn't the place that has crazy names or themes. The names are simple, but the beer can be complex. Check out the Breakfast Stout in the winter and the Harvest Ale in fall.\n\n# Drink this if You Like\n\nStouts, rich, boozy ales\n\n# Ideal for People who Like\n\nGrab-bags, angry Scottish men, variety in flavors\n\n# Drink While You Are\n\nPreparing for a kilt-tilting contest\n\n# Pair With\n\nSalmon, smoked meat, brie, gouda, Havarti, swiss\n",
+          "searchedForUntappdID": true,
+          "style": "Scottish Ale",
+          "objectId": "381",
+          "__type": "Object",
+          "className": "Beer"
+        },
+        {
+          "untappdID": "1905122",
+          "name": "Davey Murray's Best Scotch Ale",
+          "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-1905122_bd654_sm.jpeg",
+          "brewer": "Lagunitas Brewing Company",
+          "abv": 0.095,
+          "ibu": 0,
+          "createdAt": "2017-03-15T04:30:16.346Z",
+          "updatedAt": "2017-05-10T00:19:22.328Z",
+          "searchedForUntappdID": true,
+          "style": "Scotch Ale \/ Wee Heavy",
+          "objectId": "UD1wamqb9Y",
+          "__type": "Object",
+          "className": "Beer"
+        },
+        {
+          "untappdID": "2171576",
+          "name": "SoMa Secrets",
+          "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-2171576_41c26_sm.jpeg",
+          "brewer": "Local Brewing Co.",
+          "abv": 0.064,
+          "ibu": 18,
+          "createdAt": "2017-08-30T13:45:23.480Z",
+          "updatedAt": "2017-08-30T13:45:23.480Z",
+          "objectId": "PMN5xrwMIE",
+          "__type": "Object",
+          "className": "Beer"
+        },
+        {
+          "untappdID": "1086083",
+          "name": "Saigon Saison",
+          "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-1086083_33b3a_sm.jpeg",
+          "brewer": "Pasteur Street Brewing Company",
+          "abv": 0.072,
+          "ibu": 40,
+          "createdAt": "2017-08-30T13:45:23.507Z",
+          "updatedAt": "2017-08-30T13:45:23.507Z",
+          "objectId": "xTNHsCgFXX",
+          "__type": "Object",
+          "className": "Beer"
+        }
+      ],
+      "company": {
+        "__type": "Pointer",
+        "className": "Company",
+        "objectId": "Hzvr3cDVQa"
+      },
+      "title": "Belgian and Strong",
+      "description": "Strong, Belgian, Saison",
+      "createdAt": "2017-08-30T13:45:23.775Z",
+      "updatedAt": "2017-08-30T13:45:23.775Z",
+      "ACL": {
+        "*": {
+          "read": true,
+          "write": true
+        }
+      },
+      "objectId": "TgYq7x2R4L",
+      "__type": "Object",
+      "className": "Collections"
+    },
+    {
+      "states": [
+        "ca"
+      ],
+      "beers": [
+        {
+          "untappdID": "760904",
+          "name": "Spaghetti Western Grappa Barrel",
+          "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-760904_4eb94_sm.jpeg",
+          "brewer": "BrewFist",
+          "abv": 0.087,
+          "ibu": 60,
+          "createdAt": "2017-06-11T21:39:04.158Z",
+          "updatedAt": "2017-06-11T21:39:04.158Z",
+          "objectId": "hHaJVqPbfg",
+          "__type": "Object",
+          "className": "Beer"
+        },
+        {
+          "untappdID": "19459",
+          "name": "P\u00e9ch\u00e9 Mortel",
+          "brewer": "Brasserie Dieu du Ciel!",
+          "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-696375_420bc_sm.jpeg",
+          "abv": 0.095,
+          "ibu": 76,
+          "createdAt": "2016-10-17T17:35:17.226Z",
+          "updatedAt": "2017-05-07T21:31:29.655Z",
+          "searchedForUntappdID": true,
+          "style": "Stout - American Imperial \/ Double",
+          "objectId": "wNe2WbLDzW",
+          "__type": "Object",
+          "className": "Beer"
+        },
+        {
+          "abv": 0.124,
+          "crispRich": 0.9,
+          "ibu": null,
+          "tags": [
+            {
+              "__type": "Pointer",
+              "className": "Tag",
+              "objectId": "52"
+            }
+          ],
+          "tier": {
+            "__type": "Pointer",
+            "className": "Tier",
+            "objectId": "1"
+          },
+          "body": 0.9,
+          "maltHop": 0.2,
+          "createdAt": "2016-01-11T03:13:51.092Z",
+          "updatedAt": "2017-08-29T02:39:39.861Z",
+          "drySweet": 0.8,
+          "name": "Kentucky Breakfast Stout (KBS)",
+          "brewer": "Founders Brewing Co.",
+          "untappdID": "9681",
+          "untappdString": "Kentucky Breakfast Stout (KBS) (Founders Brewing Co.)",
+          "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-FoundersKBS.jpg",
+          "searchedForUntappdID": true,
+          "style": "Stout - American Imperial \/ Double",
+          "objectId": "1395",
+          "__type": "Object",
+          "className": "Beer"
+        },
+        {
+          "body": 0.7,
+          "crispRich": 0.8,
+          "brewer": "Founders Brewing Co.",
+          "tags": [
+            {
+              "__type": "Pointer",
+              "className": "Tag",
+              "objectId": "117"
+            },
+            {
+              "__type": "Pointer",
+              "className": "Tag",
+              "objectId": "5"
+            },
+            {
+              "__type": "Pointer",
+              "className": "Tag",
+              "objectId": "19"
+            },
+            {
+              "__type": "Pointer",
+              "className": "Tag",
+              "objectId": "26"
+            },
+            {
+              "__type": "Pointer",
+              "className": "Tag",
+              "objectId": "44"
+            },
+            {
+              "__type": "Pointer",
+              "className": "Tag",
+              "objectId": "70"
+            }
+          ],
+          "name": "Porter",
+          "createdAt": "2016-01-11T03:13:47.990Z",
+          "updatedAt": "2017-08-29T02:39:39.625Z",
+          "abv": 0.065,
+          "ibu": null,
+          "drySweet": 0.7,
+          "tier": {
+            "__type": "Pointer",
+            "className": "Tier",
+            "objectId": "2"
+          },
+          "maltHop": 0.3,
+          "untappdID": "9346",
+          "untappdString": "Porter (Founders Brewing Co.)",
+          "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-FounersDarkRichSexy.jpg",
+          "description": "\n# Beer Description\n\nPours silky black with a creamy tan head. The nose is sweet with strong chocolate and caramel malt presence. No absence of hops gives Founders' robust porter the full flavor you deserve and expect. Cozy like velvet. It's a lover, not a fighter.\n\n# What You Should Know\n\nWhile most porters go for a very smooth, sweet and medium-bodied experience with less hop taste, this porter refuses to go there. Clocking in a 45 IBUs, this does have a nice dry, piney finish that is hard to find in this style of beer.\n\n# The Boy's Take\n\nCareful bringing this beer up to a porter fan- we hope you have 10 minutes, because those guys tend to get a bit worked up about this one. Balancing a wonderful medley of flavors (milk chocolate, coffee, toast, caramel and light pine), Founder's porter is truly something to be savored, but still goes down very, very smooth.\n\n# About the Brewer\n\nFounder's Brewery is the pride and joy of Grand Rapids, MI. Mike Stevens and Dave Engbers started the brewery, and very quickly they realized they were running out of money- so they decided to stop playing it safe. Since then, Founder's has been a different brewery. This isn't the place that has crazy names or themes. The names are simple, but the beer can be complex. Check out the Breakfast Stout in the winter and the Harvest Ale in fall.\n\n# Drink this if You Like\n\nPorters and brown to dark ales. This one isn't as dark chocolate as some others\n\n# Ideal for People who Like\n\nBalance and excellence, mix tapes, medleys\n\n# Drink While You Are\n\nTrying to impress your porter-head friends\n\n# Pair With\n\nBeef BBQ, smoked meat, buttery cheeses (Brie, Gouda, Havarti, Swiss)\n\n",
+          "searchedForUntappdID": true,
+          "style": "Porter - American",
+          "objectId": "386",
+          "__type": "Object",
+          "className": "Beer"
+        },
+        {
+          "brewer": "Founders Brewing Co.",
+          "createdAt": "2016-12-15T18:45:59.637Z",
+          "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-1052528_bbde5_sm.jpeg",
+          "abv": 0.105,
+          "updatedAt": "2017-07-26T12:11:55.661Z",
+          "ibu": 40,
+          "name": "Lizard of Koz",
+          "untappdID": "1052528",
+          "searchedForUntappdID": true,
+          "style": "Stout - American Imperial \/ Double",
+          "objectId": "Uw0GtXLXNE",
+          "__type": "Object",
+          "className": "Beer"
+        },
+        {
+          "brewer": "Lagunitas Brewing Company",
+          "name": "Cappuccino Stout",
+          "untappdID": "4472",
+          "abv": 0.09,
+          "ibu": 30,
+          "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-LagunitasCappuccinoStout.jpg",
+          "createdAt": "2016-03-16T18:02:26.115Z",
+          "updatedAt": "2017-05-06T01:57:35.221Z",
+          "searchedForUntappdID": true,
+          "style": "Stout - American Imperial \/ Double",
+          "objectId": "zSprBYaxoa",
+          "__type": "Object",
+          "className": "Beer"
+        },
+        {
+          "untappdID": "2114007",
+          "name": "Porter of the Phoenix",
+          "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-2114007_b1dce_sm.jpeg",
+          "brewer": "Local Brewing Co.",
+          "abv": 0.059,
+          "ibu": 19,
+          "createdAt": "2017-08-30T13:49:49.809Z",
+          "updatedAt": "2017-08-30T13:49:49.809Z",
+          "objectId": "PBqCcuEPNR",
+          "__type": "Object",
+          "className": "Beer"
+        },
+        {
+          "untappdID": "30630",
+          "name": "Sutro Tower Stout",
+          "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-30630_ba06b_sm.jpeg",
+          "brewer": "Local Brewing Co.",
+          "abv": 0.059,
+          "ibu": 59,
+          "createdAt": "2017-08-30T13:49:49.870Z",
+          "updatedAt": "2017-08-30T13:49:49.870Z",
+          "objectId": "xqHz2Mtaug",
+          "__type": "Object",
+          "className": "Beer"
+        },
+        {
+          "untappdID": "1070566",
+          "name": "Crooked Moon Tattoo Stockholm Fig Stout",
+          "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-1070566_55058_sm.jpeg",
+          "brewer": "Mikkeller",
+          "abv": 0.08,
+          "ibu": 40,
+          "createdAt": "2017-08-30T13:49:49.870Z",
+          "updatedAt": "2017-08-30T13:49:49.870Z",
+          "objectId": "ehFR1VTnCQ",
+          "__type": "Object",
+          "className": "Beer"
+        }
+      ],
+      "company": {
+        "__type": "Pointer",
+        "className": "Company",
+        "objectId": "Hzvr3cDVQa"
+      },
+      "title": "Dark",
+      "description": "Porter, Stout",
+      "createdAt": "2017-08-30T13:49:50.257Z",
+      "updatedAt": "2017-08-30T13:49:50.257Z",
+      "ACL": {
+        "*": {
+          "read": true,
+          "write": true
+        }
+      },
+      "objectId": "zGrSPgJ8qJ",
+      "__type": "Object",
+      "className": "Collections"
+    },
+    {
       "beers": [
         {
           "description": "\n# Beer Description\n\nA Beer Cloaked in Secrecy, An ale whose mysterious and unusual palate will swirl across your tongue and ask more questions than it answers. A beer brewed clandestinely and given a name whose meaning is never revealed. Why #9? Why, indeed. A sort of dry, crisp, fruity, refreshing, not-quite pale ale. #9 is really impossible to describe because there's never been anything else quite like it. Fermented with our 150 year old strain of top-fermenting English yeast.\n\n# What You Should Know\n\n\\#9 starts with the base of a traditional Pale Ale- pale and crystal malts that are light and somewhat sweet. Cascade and Centennial hops, two varieties that are used very commonly in craft beer, so it's a familiar base. The secret differentiator is the addition of apricot flavorings (it's top secret what gives the actual flavor) to give the beer a sweet and fruity finish.\n\n# The Boy's Take\n\nThis one is interesting- a sorta hybrid with a solid pale ale start and little bit of an interesting fruit twist at the end. It's eminently drinkable and a really solid choice.\n\n# About the Brewer\n\nMagic Hat was founded in 1994 in Burlington, VT and quickly proved to be a successful pioneer in the craft beer space. The interesting thing about Magic Hat is that they provide beer that is palatable to a mainstream audience or new craft beer drinkers, but at the same time are known for quirkiness and creativity in their marketing in culture. A trip to the artifactory is a bit of a crazy ride, with haunted-house d\u00e9cor, real pieces of art and free beer samplers. In 2008, it was time to grow and Magic Hat acquired Pyramid brewing from Washington state, giving them a coast to coast reach. Finally, North American Breweries (owned by a private equity group that also owns Genesee and Dundee brewing), came in to add Magic Hat to its empire in 2010- which means more Magic Hat beer everywhere!\n\n# Drink this if You Like\n\nPale Ales, Brown Ales, Fruit Beers\n\n# Ideal for People who Like\n\nApricots, secret formulas, Wikileaks\n\n# Drink While You Are\n\nTouring Mr. Magoo's Magic Emporium, performing a magic trick\n\n# Pair With\n\nIndian, Thai, Chinese, Southwestern\n",
@@ -3238,7 +4800,7 @@
             }
           ],
           "searchedForUntappdID": true,
-          "updatedAt": "2017-07-16T20:23:51.605Z",
+          "updatedAt": "2017-08-17T19:27:30.308Z",
           "body": 0.5,
           "abv": 0.051,
           "tier": {
@@ -3351,7 +4913,7 @@
             }
           ],
           "searchedForUntappdID": true,
-          "updatedAt": "2017-06-08T13:03:54.689Z",
+          "updatedAt": "2017-08-13T01:56:24.852Z",
           "body": 0.4,
           "abv": 0.042,
           "maltHop": 0.4,
@@ -3366,7 +4928,7 @@
         },
         {
           "createdAt": "2016-05-13T06:25:10.081Z",
-          "updatedAt": "2017-05-31T14:31:31.725Z",
+          "updatedAt": "2017-08-19T12:34:50.431Z",
           "name": "329 Lager",
           "untappdID": "593409",
           "brewer": "Golden Road Brewing",
@@ -3897,7 +5459,7 @@
             }
           ],
           "maltHop": 0.83,
-          "updatedAt": "2017-07-24T00:40:34.422Z",
+          "updatedAt": "2017-08-29T02:39:40.553Z",
           "drySweet": 0.65,
           "body": 0.65,
           "brewer": "Arrogant Brewing",
@@ -4138,7 +5700,7 @@
             }
           ],
           "searchedForUntappdID": true,
-          "updatedAt": "2017-07-12T14:41:50.607Z",
+          "updatedAt": "2017-08-29T02:39:39.634Z",
           "body": 0.6,
           "abv": 0.068,
           "maltHop": 0.7,
@@ -4353,7 +5915,7 @@
         {
           "brewer": "Kona Brewing Company",
           "name": "Big Wave Golden Ale",
-          "updatedAt": "2017-06-15T23:02:25.910Z",
+          "updatedAt": "2017-08-10T17:42:17.901Z",
           "breweryDBID": "GjCwyw",
           "ibu": null,
           "untappdString": "Big Wave Golden Ale (Kona Brewing Company)",
@@ -4610,7 +6172,7 @@
             }
           ],
           "searchedForUntappdID": true,
-          "updatedAt": "2017-08-07T15:17:23.615Z",
+          "updatedAt": "2017-08-28T18:53:47.706Z",
           "body": 0.4,
           "abv": 0.042,
           "tier": {
@@ -4857,7 +6419,7 @@
             }
           ],
           "searchedForUntappdID": true,
-          "updatedAt": "2017-07-12T14:41:50.624Z",
+          "updatedAt": "2017-08-29T02:39:39.875Z",
           "body": 0.55,
           "abv": 0.07,
           "maltHop": 0.68,
@@ -4879,7 +6441,7 @@
           "style": "IPA",
           "untappdID": "1918666",
           "createdAt": "2017-05-15T00:18:16.056Z",
-          "updatedAt": "2017-07-16T16:06:44.485Z",
+          "updatedAt": "2017-08-17T13:54:47.326Z",
           "body": null,
           "drySweet": null,
           "maltHop": null,
@@ -4966,7 +6528,7 @@
           "abv": 0.05,
           "brewer": "Anheuser-Busch",
           "createdAt": "2016-03-16T00:16:15.128Z",
-          "updatedAt": "2017-07-25T02:08:49.682Z",
+          "updatedAt": "2017-08-15T19:31:07.263Z",
           "ibu": null,
           "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-3783_b208c_sm.jpeg",
           "name": "Budweiser",
@@ -5032,10 +6594,10 @@
           "className": "Beer"
         },
         {
-          "brewer": "Ballast Point Brewing & Spirits",
-          "updatedAt": "2017-05-31T15:27:44.995Z",
+          "brewer": "Ballast Point Brewing Company",
+          "updatedAt": "2017-08-16T21:55:33.491Z",
           "untappdID": "1497044",
-          "ibu": 35,
+          "ibu": null,
           "createdAt": "2016-07-20T20:17:41.629Z",
           "name": "California Amber",
           "abv": 0.055,
@@ -5087,7 +6649,7 @@
           "className": "Beer"
         },
         {
-          "updatedAt": "2017-05-04T01:56:01.588Z",
+          "updatedAt": "2017-08-10T16:43:31.773Z",
           "name": "Carlsberg",
           "createdAt": "2016-03-16T07:49:08.149Z",
           "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-5991_8dbe6_sm.jpeg",
@@ -5141,7 +6703,7 @@
           "ibu": null,
           "name": "Citradelic: Tangerine IPA",
           "createdAt": "2016-03-05T21:15:36.264Z",
-          "updatedAt": "2017-07-31T18:23:55.178Z",
+          "updatedAt": "2017-08-29T02:39:39.625Z",
           "untappdID": "1139170",
           "abv": 0.06,
           "maltHop": 0.6,
@@ -5530,9 +7092,9 @@
         },
         {
           "createdAt": "2016-02-06T02:20:40.846Z",
-          "updatedAt": "2017-07-26T14:34:23.745Z",
+          "updatedAt": "2017-08-28T12:08:05.957Z",
           "brewer": "21st Amendment Brewery",
-          "ibu": 42,
+          "ibu": null,
           "name": "Down To Earth",
           "untappdID": "1008678",
           "abv": 0.044,
@@ -5820,7 +7382,7 @@
           "drySweet": 0.6,
           "maltHop": 0.4,
           "abv": 0.052,
-          "updatedAt": "2017-08-05T13:39:13.728Z",
+          "updatedAt": "2017-08-29T02:39:39.822Z",
           "brewer": "New Belgium Brewing Company",
           "ibu": 22,
           "untappdString": "Fat Tire (New Belgium Brewing Company)",
@@ -5983,7 +7545,7 @@
         },
         {
           "brewer": "Spaten-Franziskaner-L\u00f6wenbr\u00e4u-Gruppe",
-          "updatedAt": "2017-07-12T14:41:50.720Z",
+          "updatedAt": "2017-08-29T02:39:39.982Z",
           "tier": {
             "__type": "Pointer",
             "className": "Tier",
@@ -6015,7 +7577,7 @@
           "body": 0.3,
           "drySweet": 0.6,
           "maltHop": 0.3,
-          "ibu": 4,
+          "ibu": null,
           "name": "Franziskaner Hefe-Weissbier Naturtr\u00fcb",
           "createdAt": "2016-01-11T03:13:48.363Z",
           "crispRich": 0.6,
@@ -6037,7 +7599,7 @@
           "name": "Fresh Squeezed IPA",
           "brewer": "Deschutes Brewery",
           "ibu": null,
-          "updatedAt": "2017-08-05T15:33:13.311Z",
+          "updatedAt": "2017-08-16T23:41:46.914Z",
           "breweryDBString": "Fresh Squeezed IPA (Deschutes Brewery)",
           "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-59622_33e95_sm.jpeg",
           "searchedForUntappdID": true,
@@ -6167,9 +7729,14 @@
           "abv": 0.046,
           "ibu": 15,
           "createdAt": "2016-11-08T00:36:19.939Z",
-          "updatedAt": "2017-05-08T02:09:18.705Z",
+          "updatedAt": "2017-08-30T18:39:00.028Z",
           "searchedForUntappdID": true,
           "style": "Hefeweizen",
+          "body": null,
+          "drySweet": null,
+          "maltHop": null,
+          "crispRich": null,
+          "pdfURL": "https:\/\/res.cloudinary.com\/brewpublik\/image\/upload\/v1504118336\/we7u9hys0wm9zoyjab6k.pdf",
           "objectId": "2e1xGCTjgl",
           "__type": "Object",
           "className": "Beer"
@@ -6210,7 +7777,7 @@
             }
           ],
           "searchedForUntappdID": true,
-          "updatedAt": "2017-07-30T23:40:13.754Z",
+          "updatedAt": "2017-08-29T02:39:39.982Z",
           "body": 0.5,
           "abv": 0.059,
           "maltHop": 0.6,
@@ -6225,7 +7792,7 @@
         },
         {
           "breweryDBID": "otx8KO",
-          "updatedAt": "2017-05-09T02:16:21.924Z",
+          "updatedAt": "2017-08-19T19:29:59.053Z",
           "abv": 0.04,
           "ibu": null,
           "name": "Gravity Check",
@@ -6234,6 +7801,11 @@
           "label": "https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/otx8KO\/upload_PXu11h-icon.png",
           "searchedForUntappdID": true,
           "style": "IPA - Session \/ India Session Ale",
+          "body": null,
+          "drySweet": null,
+          "maltHop": null,
+          "crispRich": null,
+          "pdfURL": "https:\/\/res.cloudinary.com\/brewpublik\/image\/upload\/v1503170996\/nnrnvslb9nhglhrgieuw.pdf",
           "objectId": "wrc04oDQoE",
           "__type": "Object",
           "className": "Beer"
@@ -6406,7 +7978,7 @@
           "className": "Beer"
         },
         {
-          "updatedAt": "2017-07-11T19:01:05.863Z",
+          "updatedAt": "2017-08-17T19:45:59.788Z",
           "breweryDBID": "Yzokxa",
           "brewer": "Guinness",
           "abv": 0.045,
@@ -6546,7 +8118,7 @@
               "objectId": "19"
             }
           ],
-          "updatedAt": "2017-08-06T20:14:28.508Z",
+          "updatedAt": "2017-08-26T01:10:37.634Z",
           "body": 0.3,
           "ibu": null,
           "abv": 0.05,
@@ -6569,7 +8141,7 @@
           "createdAt": "2016-06-27T03:07:52.004Z",
           "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-7044_70402_sm.jpeg",
           "name": "Hell or High Watermelon",
-          "updatedAt": "2017-07-26T14:34:23.640Z",
+          "updatedAt": "2017-08-25T10:12:44.025Z",
           "abv": 0.049,
           "untappdID": "7044",
           "ibu": null,
@@ -6660,7 +8232,7 @@
             }
           ],
           "searchedForUntappdID": true,
-          "updatedAt": "2017-08-03T19:54:07.749Z",
+          "updatedAt": "2017-08-29T02:39:40.063Z",
           "body": 0.4,
           "abv": 0.049,
           "tier": {
@@ -7141,7 +8713,7 @@
             }
           ],
           "searchedForUntappdID": true,
-          "updatedAt": "2017-06-01T14:09:43.179Z",
+          "updatedAt": "2017-08-10T13:07:53.233Z",
           "body": 0.7,
           "abv": 0.07,
           "tier": {
@@ -7466,11 +9038,16 @@
           "brewer": "Modern Times Beer",
           "name": "Lomaland",
           "createdAt": "2016-06-06T17:30:14.643Z",
-          "updatedAt": "2017-05-05T15:28:27.100Z",
+          "updatedAt": "2017-08-20T20:12:25.139Z",
           "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-384799_27d4c_sm.jpeg",
           "ibu": 30,
           "searchedForUntappdID": true,
           "style": "Saison \/ Farmhouse Ale",
+          "body": 0.63,
+          "drySweet": 0.69,
+          "maltHop": 0.33,
+          "crispRich": 0.57,
+          "description": "Malt: Pilsner, Wheat, Corn, 2-Row.  Hops: Saaz  Yeast: Belgian Saison",
           "objectId": "ghCIVOvw5Z",
           "__type": "Object",
           "className": "Beer"
@@ -7513,7 +9090,7 @@
           },
           "crispRich": 0.4,
           "name": "Longboard Island Lager",
-          "updatedAt": "2017-06-28T15:07:07.360Z",
+          "updatedAt": "2017-08-27T17:24:30.083Z",
           "maltHop": 0.4,
           "drySweet": 0.5,
           "untappdID": "13560",
@@ -7756,11 +9333,11 @@
         },
         {
           "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-_524080_sm_dc70c81cdf8a89f421357dc844acde.jpeg",
-          "updatedAt": "2017-05-31T14:26:55.600Z",
+          "updatedAt": "2017-08-15T16:44:01.534Z",
           "untappdID": "524080",
           "abv": 0.053,
           "brewer": "Speakeasy Ales & Lagers",
-          "ibu": 47,
+          "ibu": null,
           "createdAt": "2016-05-19T22:19:34.461Z",
           "name": "Metropolis Lager",
           "searchedForUntappdID": true,
@@ -7859,7 +9436,7 @@
           "ibu": null,
           "abv": 0.045,
           "untappdString": "Modelo Especial (Grupo Modelo S.A. de C.V.)",
-          "updatedAt": "2017-06-22T14:24:20.480Z",
+          "updatedAt": "2017-08-16T21:47:20.865Z",
           "body": 0.3,
           "crispRich": 0.4,
           "drySweet": 0.4,
@@ -7969,7 +9546,7 @@
           "abv": 0.04,
           "brewer": "Black Sheep",
           "ibu": null,
-          "updatedAt": "2017-05-05T03:09:03.229Z",
+          "updatedAt": "2017-08-27T17:24:30.064Z",
           "createdAt": "2016-04-09T17:42:42.088Z",
           "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-5930_09634_sm.jpeg",
           "searchedForUntappdID": true,
@@ -7982,7 +9559,7 @@
           "breweryDBID": "socay9",
           "name": "Morland Old Speckled Hen",
           "untappdString": "Morland Old Speckled Hen (Greene King)",
-          "updatedAt": "2017-07-25T00:01:28.883Z",
+          "updatedAt": "2017-08-10T18:13:29.404Z",
           "createdAt": "2016-01-25T05:10:46.667Z",
           "ibu": null,
           "brewer": "Greene King",
@@ -8262,7 +9839,7 @@
           "ibu": null,
           "drySweet": 0.7,
           "maltHop": 0.2,
-          "updatedAt": "2017-07-24T13:17:23.761Z",
+          "updatedAt": "2017-08-10T18:13:29.408Z",
           "untappdID": "5856",
           "untappdString": "Newcastle Brown Ale (John Smiths)",
           "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-5856_9797e_sm.jpeg",
@@ -8491,11 +10068,11 @@
         {
           "untappdID": "5850",
           "brewer": "Grupo Modelo",
-          "ibu": 15,
+          "ibu": null,
           "name": "Pacifico Clara",
           "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-PacificoClara_5850.jpeg",
           "createdAt": "2016-03-15T23:39:07.345Z",
-          "updatedAt": "2017-08-06T20:14:28.508Z",
+          "updatedAt": "2017-08-16T23:22:02.971Z",
           "abv": 0.045,
           "drySweet": 0.27,
           "maltHop": 0.25,
@@ -8530,13 +10107,13 @@
         },
         {
           "abv": 0.044,
-          "ibu": 25,
+          "ibu": null,
           "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/palelnd.jpg",
           "untappdID": "2136",
           "name": "Pale Ale",
           "createdAt": "2016-08-23T14:29:43.849Z",
           "brewer": "Schlafly - The Saint Louis Brewery",
-          "updatedAt": "2017-04-27T15:28:45.351Z",
+          "updatedAt": "2017-08-16T21:55:33.509Z",
           "searchedForUntappdID": true,
           "style": "Pale Ale - English",
           "objectId": "0VsBg2MpaY",
@@ -8545,13 +10122,13 @@
         },
         {
           "abv": 0.044,
-          "ibu": 25,
+          "ibu": null,
           "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/palelnd.jpg",
           "untappdID": "2136",
           "name": "Pale Ale",
           "createdAt": "2016-08-23T14:29:43.849Z",
           "brewer": "Schlafly - The Saint Louis Brewery",
-          "updatedAt": "2017-04-27T15:28:45.351Z",
+          "updatedAt": "2017-08-16T21:55:33.509Z",
           "searchedForUntappdID": true,
           "style": "Pale Ale - English",
           "objectId": "0VsBg2MpaY",
@@ -8797,7 +10374,7 @@
           "className": "Beer"
         },
         {
-          "updatedAt": "2017-06-01T14:21:08.195Z",
+          "updatedAt": "2017-08-12T01:29:18.850Z",
           "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-375332_02f83_sm.jpeg",
           "abv": 0.065,
           "ibu": null,
@@ -9076,7 +10653,7 @@
           "drySweet": 0.6,
           "abv": 0.075,
           "maltHop": 0.7,
-          "updatedAt": "2017-08-03T15:05:54.079Z",
+          "updatedAt": "2017-08-10T17:41:50.631Z",
           "tier": {
             "__type": "Pointer",
             "className": "Tier",
@@ -9326,7 +10903,7 @@
           "ibu": null,
           "createdAt": "2016-06-15T00:15:57.321Z",
           "brewer": "Latrobe Brewing Co.",
-          "updatedAt": "2017-06-15T20:38:11.601Z",
+          "updatedAt": "2017-08-26T02:48:02.768Z",
           "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-38907_a690b_sm.jpeg",
           "name": "Rolling Rock Extra Pale",
           "untappdID": "38907",
@@ -9470,7 +11047,7 @@
             }
           ],
           "searchedForUntappdID": true,
-          "updatedAt": "2017-07-27T02:18:13.666Z",
+          "updatedAt": "2017-08-29T02:39:40.073Z",
           "body": 0.4,
           "abv": 0.05,
           "maltHop": 0.5,
@@ -9660,7 +11237,7 @@
           "untappdID": "1599099",
           "brewer": "Barebottle Brewing Company",
           "label": "https:\/\/untappd.akamaized.net\/site\/assets\/images\/temp\/badge-beer-default.png",
-          "updatedAt": "2017-05-29T15:36:28.115Z",
+          "updatedAt": "2017-08-30T18:37:26.245Z",
           "ibu": 0,
           "name": "Scurvy Fighter",
           "createdAt": "2016-11-08T20:25:06.939Z",
@@ -10031,7 +11608,7 @@
             "className": "Tier",
             "objectId": "2"
           },
-          "updatedAt": "2017-08-06T20:14:28.505Z",
+          "updatedAt": "2017-08-29T02:39:40.121Z",
           "untappdID": "1547",
           "untappdString": "Spaten Oktoberfestbier \/ Oktoberfest Ur-M\u00c3\u00a4rzen (Spaten-Franziskaner-L\u00c3\u00b6wenbr\u00c3\u00a4u-Gruppe)",
           "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-1547_92120_sm.jpeg",
@@ -10127,8 +11704,8 @@
           "crispRich": 0.3,
           "abv": 0.05,
           "maltHop": 0.4,
-          "updatedAt": "2017-08-02T17:33:39.105Z",
-          "ibu": 24,
+          "updatedAt": "2017-08-16T22:16:42.523Z",
+          "ibu": null,
           "body": 0.3,
           "tier": {
             "__type": "Pointer",
@@ -10212,7 +11789,7 @@
           "crispRich": 0.58,
           "createdAt": "2016-01-11T03:13:51.835Z",
           "drySweet": 0.57,
-          "ibu": 71,
+          "ibu": null,
           "label": "https:\/\/untappd.akamaized.net\/site\/beer_logos\/beer-821_1109a_sm.jpeg",
           "untappdID": "821",
           "brewer": "Stone Brewing",
@@ -10243,7 +11820,7 @@
             }
           ],
           "searchedForUntappdID": true,
-          "updatedAt": "2017-07-12T14:41:50.347Z",
+          "updatedAt": "2017-08-29T02:39:40.172Z",
           "body": 0.58,
           "abv": 0.069,
           "tier": {
@@ -11266,7 +12843,7 @@
         {
           "createdAt": "2016-03-03T01:14:48.524Z",
           "brewer": "Charles Wells Brewery",
-          "updatedAt": "2017-07-12T14:41:50.674Z",
+          "updatedAt": "2017-08-29T02:39:39.659Z",
           "name": "Young's Double Chocolate Stout",
           "abv": 0.052,
           "ibu": 25,
