@@ -51,7 +51,7 @@ function receivedBeers(data, oldBeers) {
   var results = data.result;
   var newBeers = results.map(function (coll) {
     return Object.assign({}, coll, {
-      beers: coll.beers.filter(function (val) {
+      beers: coll.alcohol.filter(function (val) {
         return !oldBeers[val.objectId];
       })
     });
@@ -66,7 +66,7 @@ function receivedBeers(data, oldBeers) {
   });
 
   oldBeers = results.map(function (coll) {
-    return Object.assign({}, coll, { beers: coll.beers.filter(function (val) { return oldBeers[val.objectId]; }) });
+    return Object.assign({}, coll, { beers: coll.alcohol.filter(function (val) { return oldBeers[val.objectId]; }) });
   });
   var header = $("<h3/>", {
     html: "Old beers"
