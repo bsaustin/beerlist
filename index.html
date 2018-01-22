@@ -7,6 +7,9 @@
 <script>
 function transcribeBeers(collection) {
   var beers = collection.beers;
+  if (!beers) {
+    beers = collection.alcohol;
+  }
   var list = [];
   var dict = {};
   beers.forEach(function (val) {
@@ -38,7 +41,11 @@ function transcribeBeers(collection) {
 function receivedOldBeers(data) {
   oldBeers = {};
   data.result.forEach(function (result) {
-    result.beers.forEach(function (val) {
+    var beers = result.beers;
+    if (!beers) {
+      beers = result.alcohol;
+    }
+    beers.forEach(function (val) {
       oldBeers[val.objectId] = val;
     });
   });
